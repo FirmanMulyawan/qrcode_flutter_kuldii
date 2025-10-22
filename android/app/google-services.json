@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707204716079",
+    "project_id": "qrcode-bloc-kuldii",
+    "storage_bucket": "qrcode-bloc-kuldii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707204716079:android:61e8b6e86034fb6a84d8da",
+        "android_client_info": {
+          "package_name": "com.example.qrcode_bloc_kuldii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMt2Ddb7IPwV_R3WO0XHaWxQou_gmN2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
